@@ -1,0 +1,1 @@
+Proyecto Java (Swing) - Sistema de Ventas\nArchivos en carpeta: Persona.java, Empleado.java, Cliente.java, Proveedor.java, Producto.java, Venta.java, SistemaPago.java, Tienda.java, MainMenu.java, ClientRegistry.java\nCompilar en NetBeans: crear proyecto Java y copiar estos archivos en la carpeta 'Source Packages' sin package. Ejecutar MainMenu.java\n
